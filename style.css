@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  background: #e6f0ff;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  border: 2px solid #3399ff;
+  border-radius: 15px;
+  width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+}
+
+h2 {
+  text-align: center;
+  color: #007bff;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+  list-style-position: inside;
+}
+
+li {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.rang { background-color: #f28b82; }
+.orqa-fon { background-color: #ccffcc; }
+.hajm { background-color: #dcd6f7; }
+.matn { background-color: #fff7b2; }
+.chegaralar { background-color: #f8c8f8; }
+.yumaloqlik { background-color: #ccf2f4; }
+.royxat { background-color: #fbd1a2; }
+.animatsiya { background-color: #c1f0d6; }
+.flexbox { background-color: #b3e5fc; }
+.grid { background-color: #ffcdd2; }
